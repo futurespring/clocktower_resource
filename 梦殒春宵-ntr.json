@@ -625,7 +625,7 @@
         "ability": "恶魔可以在夜晚选择放弃攻击（每局游戏至少一次）。邪恶玩家照常获取初始信息。",
         "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/toymaker.png"
     },
-	{
+    {
         "firstNightReminder": "",
         "otherNightReminder": "",
         "name": "间隔",
