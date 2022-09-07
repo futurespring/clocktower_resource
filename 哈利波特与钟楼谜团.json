@@ -1,0 +1,504 @@
+[
+  {
+    "id": "_meta",
+    "name": "哈利波特与钟楼谜团",
+    "author": "戴大维",
+    "logo": "https://oss.gstonegames.com/data_file/clocktower/web/editions/hlbt.png"
+  },
+  {
+    "id": "hlbt_1",
+    "isOfficial": false,
+    "name": "哈利波特",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 10,
+    "otherNightReminder": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
+    "reminders": [
+      "技能已使用"
+    ],
+    "setup": false,
+    "ability": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_1.png"
+  },
+  {
+    "id": "hlbt_2",
+    "isOfficial": false,
+    "name": "赫敏",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 10,
+    "firstNightReminder": "",
+    "otherNight": 16,
+    "otherNightReminder": "最聪明的女巫：每个白天，拜访说书人并发表一个声明。如果该声明正确，你会获得一条正确信息。如果该声明错误，你会获得一条错误信息。你的声明越有挑战，你获得的信息越有价值。",
+    "reminders": [],
+    "setup": false,
+    "ability": "最聪明的女巫：每个白天，拜访说书人并发表一个声明。如果该声明正确，你会获得一条正确信息。如果该声明错误，你会获得一条错误信息。你的声明越有挑战，你获得的信息越有价值。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_2.png"
+  },
+  {
+    "id": "hlbt_3",
+    "isOfficial": false,
+    "name": "罗恩",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 3,
+    "firstNightReminder": "",
+    "otherNight": 3,
+    "otherNightReminder": "一生挚友：每个夜晚*，你得知与你相邻的存活玩家是否是魂器。棋高一着：每个白天和夜晚，你都可以牺牲自己。你死亡时，可以带走一名玩家。",
+    "reminders": [
+      "罗恩带走"
+    ],
+    "setup": false,
+    "ability": "一生挚友：每个夜晚*，你得知与你相邻的存活玩家是否是魂器。棋高一着：每个白天和夜晚，你都可以牺牲自己。你死亡时，可以带走一名玩家。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_3.png"
+  },
+  {
+    "id": "hlbt_4",
+    "isOfficial": false,
+    "name": "斯内普",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "混血王子：你混入了食死徒中，爪牙会认为你是恶魔，恶魔会认为你是爪牙。",
+    "otherNight": 0,
+    "otherNightReminder": "混血王子：你混入了食死徒中，爪牙会认为你是恶魔，恶魔会认为你是爪牙。",
+    "reminders": [],
+    "setup": false,
+    "ability": "混血王子：你混入了食死徒中，爪牙会认为你是恶魔，恶魔会认为你是爪牙。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_4.png"
+  },
+  {
+    "id": "hlbt_5",
+    "isOfficial": false,
+    "name": "海格",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 4,
+    "otherNightReminder": "大个子看守：每个夜晚*，选择两名其他玩家（需与上一晚不同）。如果他们都是善良玩家，他们在今晚和明天白天不会死亡。如果今晚你被恶魔杀害，他们一同被杀。",
+    "reminders": [
+      "被守护",
+      "被带走"
+    ],
+    "setup": false,
+    "ability": "大个子看守：每个夜晚*，选择两名其他玩家（需与上一晚不同）。如果他们都是善良玩家，他们在今晚和明天白天不会死亡。如果今晚你被恶魔杀害，他们一同被杀。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_5.png"
+  },
+  {
+      "id": "hlbt_6",
+      "isOfficial": false,
+      "name": "卢平",
+      "edition": "hlbt",
+      "team": "townsfolk",
+      "firstNight": 11,
+      "firstNightReminder": "",
+      "otherNight": 0,
+      "otherNightReminder": "",
+      "reminders": [],
+      "setup": false,
+      "ability": "活点地图：第一个夜晚开始时，你如果公开念出咒语“我庄严宣誓我不怀好意！”，然后你会得知恶魔与其最近的魂器之间的间隔数字，以及恶魔与其最近的爪牙之间的间隔数字。",
+      "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_6.png"
+  },
+  {
+    "id": "hlbt_7",
+    "isOfficial": false,
+    "name": "小天狼星",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 17,
+    "otherNightReminder": "阿兹卡班的囚徒：每个夜晚*，你得知是否有邪恶玩家参与了投票。魂器会被你视为邪恶玩家。",
+    "reminders": [],
+    "setup": false,
+    "ability": "阿兹卡班的囚徒：每个夜晚*，你得知是否有邪恶玩家参与了投票。魂器会被你视为邪恶玩家。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_7.png"
+  },
+  {
+    "id": "hlbt_8",
+    "isOfficial": false,
+    "name": "麦格",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 2,
+    "firstNightReminder": "石墩出动：每局游戏限一次，你需要公开念出咒语“石墩出动！”，如果足够有气势，当晚所有邪恶阵营玩家失去能力（醉酒），直到下个黄昏。",
+    "otherNight": 2,
+    "otherNightReminder": "石墩出动：每局游戏限一次，你需要公开念出咒语“石墩出动！”，如果足够有气势，当晚所有邪恶阵营玩家失去能力（醉酒），直到下个黄昏。",
+    "reminders": [
+      "已使用"
+    ],
+    "setup": false,
+    "ability": "石墩出动：每局游戏限一次，你需要公开念出咒语“石墩出动！”，如果足够有气势，当晚所有邪恶阵营玩家失去能力（醉酒），直到下个黄昏。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_8.png"
+  },
+  {
+    "id": "hlbt_9",
+    "isOfficial": false,
+    "name": "多比",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 12,
+    "firstNightReminder": "忠诚的小精灵：每个夜晚，选择一名存活玩家，你得与他相邻的存活玩家是否属于同一阵营。如果你选择了一名邪恶玩家，你醉酒直到下个黄昏。",
+    "otherNight": 18,
+    "otherNightReminder": "忠诚的小精灵：每个夜晚，选择一名存活玩家，你得与他相邻的存活玩家是否属于同一阵营。如果你选择了一名邪恶玩家，你醉酒直到下个黄昏。",
+    "reminders": [],
+    "setup": false,
+    "ability": "忠诚的小精灵：每个夜晚，选择一名存活玩家，你得与他相邻的存活玩家是否属于同一阵营。如果你选择了一名邪恶玩家，你醉酒直到下个黄昏。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_9.png"
+  },
+  {
+    "id": "hlbt_10",
+    "isOfficial": false,
+    "name": "邓布利多",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 13,
+    "otherNightReminder": "",
+    "reminders": [],
+    "setup": false,
+    "ability": "最强大的巫师：每个夜晚*，选择一名玩家，如果他是魂器，他死亡。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_10.png"
+  },
+  {
+    "id": "hlbt_11",
+    "isOfficial": false,
+    "name": "卢娜",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 14,
+    "otherNightReminder": "",
+    "reminders": [
+      "谣言致死"
+    ],
+    "setup": false,
+    "ability": "唱唱反调：每个白天，你可以做出一项公开声明。如果声明正确，一名玩家在今晚死亡。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_11.png"
+  },
+  {
+    "id": "hlbt_12",
+    "isOfficial": false,
+    "name": "疯眼汉穆迪",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 19,
+    "otherNightReminder": "看穿一切：每个夜晚*，选择两名玩家，如果其中有爪牙或魂器，你得知其中的爪牙或魂器是什么角色。最多得知一名角色。",
+    "reminders": [],
+    "setup": false,
+    "ability": "看穿一切：每个夜晚*，选择两名玩家，如果其中有爪牙或魂器，你得知其中的爪牙或魂器是什么角色。最多得知一名角色。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_12.png"
+  },
+  {
+    "id": "hlbt_13",
+    "isOfficial": false,
+    "name": "特里劳妮",
+    "edition": "hlbt",
+    "team": "townsfolk",
+    "firstNight": 13,
+    "firstNightReminder": "",
+    "otherNight": 20,
+    "otherNightReminder": "占卜课教授：每局游戏限一次，公开发布一则预言，你的预言有可能成真。",
+    "reminders": [],
+    "setup": false,
+    "ability": "占卜课教授：每局游戏限一次，公开发布一则预言，你的预言有可能成真。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_13.png"
+  },
+  {
+    "id": "hlbt_14",
+    "isOfficial": false,
+    "name": "桃金娘",
+    "edition": "hlbt",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "哭泣的女孩：如果你死亡，恶魔在当晚可以进行一次魂器转移：选择一个新的玩家作为魂器，同时原来在场的一个魂器失效。",
+    "otherNight": 15,
+    "otherNightReminder": "",
+    "reminders": [],
+    "setup": false,
+    "ability": "哭泣的女孩：如果你死亡，恶魔在当晚可以进行一次魂器转移（选择一个新的玩家作为魂器，同时原来在场的一个魂器失效）。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_14.png"
+  },
+  {
+    "id": "hlbt_15",
+    "isOfficial": false,
+    "name": "纳威",
+    "edition": "hlbt",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "被预言选中的人：你以为你是哈利波特，但实际上你是纳威。你死亡时所有人会知道你的身份，得知你死亡后，当晚所有善良玩家过于悲痛，不会发动技能，直到第二天黄昏。",
+    "otherNight": 1,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [
+      "其实是纳威"
+    ],
+    "setup": false,
+    "ability": "被预言选中的人：你以为你是哈利波特，但实际上你是纳威。你死亡时所有人会知道你的身份，得知你死亡后，当晚所有善良玩家过于悲痛，不会发动技能，直到第二天黄昏。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_15.png"
+  },
+  {
+    "id": "hlbt_16",
+    "isOfficial": false,
+    "name": "达力",
+    "edition": "hlbt",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "麻瓜表哥：每局游戏你只能发起提名一次。当你发起提名时，如果被你提名的玩家不是恶魔，他死亡。",
+    "otherNight": 0,
+    "otherNightReminder": "麻瓜表哥：每局游戏你只能发起提名一次。当你发起提名时，如果被你提名的玩家不是恶魔，他死亡。",
+    "reminders": [
+      "已使用"
+    ],
+    "setup": false,
+    "ability": "麻瓜表哥：每局游戏你只能发起提名一次。当你发起提名时，如果被你提名的玩家不是恶魔，他死亡。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_16.png"
+  },
+  {
+    "id": "hlbt_17",
+    "isOfficial": false,
+    "name": "费尔奇",
+    "edition": "hlbt",
+    "team": "outsider",
+    "firstNight": 1,
+    "firstNightReminder": "哑炮管理员：一名玩家醉酒，即使你已死亡。每局游戏限一次，你可以猜测谁是那个醉酒的玩家，如果猜对了，你会得知谁是恶魔，但如果猜错了，你会得知错误的“谁是恶魔”信息。",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [
+      "醉酒"
+    ],
+    "setup": false,
+    "ability": "哑炮管理员：一名玩家醉酒，即使你已死亡。每局游戏限一次，你可以猜测谁是那个醉酒的玩家，如果猜对了，你会得知谁是恶魔，但如果猜错了，你会得知错误的“谁是恶魔”信息。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_17.png"
+  },
+  {
+    "id": "hlbt_18",
+    "isOfficial": false,
+    "name": "马尔福",
+    "edition": "hlbt",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "迷途知返：你不知道你是马尔福，你以为自己是一个爪牙角色，但其实你不是。",
+    "remindersGlobal": [
+      "马尔福"
+    ],
+    "setup": true,
+    "ability": "迷途知返：你不知道你是马尔福，你以为自己是一个爪牙角色，但其实你不是。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_18.png"
+  },
+  {
+    "id": "hlbt_19",
+    "isOfficial": false,
+    "name": "乌姆里奇",
+    "edition": "hlbt",
+    "team": "minion",
+    "firstNight": 5,
+    "firstNightReminder": "",
+    "otherNight": 6,
+    "otherNightReminder": "迫害者：游戏开始时，你得知本局存在的外来者身份。当一名外来者在白天死亡时，当晚，你选择一名玩家，将他杀害。[+1外来者]",
+    "reminders": [
+      "已迫害"
+    ],
+    "setup": false,
+    "ability": "迫害者：游戏开始时，你得知本局存在的外来者身份。当一名外来者在白天死亡时，当晚，你选择一名玩家，将他杀害。[+1外来者]",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_19.png"
+  },
+  {
+    "id": "hlbt_20",
+    "isOfficial": false,
+    "name": "摄魂怪",
+    "edition": "hlbt",
+    "team": "minion",
+    "firstNight": 6,
+    "firstNightReminder": "",
+    "otherNight": 7,
+    "otherNightReminder": "摄魂：每个夜晚，选择一名玩家和一个事件，明天他需要试图说服大家这件事真实存在，如果他不这么做，他可能会被处决。",
+    "reminders": [],
+    "setup": false,
+    "ability": "摄魂：每个夜晚，选择一名玩家和一个事件，明天他需要试图说服大家这件事真实存在，如果他不这么做，他可能会被处决。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_20.png"
+  },
+  {
+    "id": "hlbt_21",
+    "isOfficial": false,
+    "name": "贝拉",
+    "edition": "hlbt",
+    "team": "minion",
+    "firstNight": 4,
+    "firstNightReminder": "钻心剜骨：每个夜晚，选择一名玩家，他中毒，直到下个黄昏。",
+    "otherNight": 5,
+    "otherNightReminder": "钻心剜骨：每个夜晚，选择一名玩家，他中毒，直到下个黄昏。",
+    "reminders": [
+      "中毒"
+    ],
+    "setup": false,
+    "ability": "钻心剜骨：每个夜晚，选择一名玩家，他中毒，直到下个黄昏。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_21.png"
+  },
+  {
+    "id": "hlbt_22",
+    "isOfficial": false,
+    "name": "厉火",
+    "edition": "hlbt",
+    "team": "minion",
+    "firstNight": 0,
+    "firstNightReminder": "邪恶之火：每个夜晚*，选择一名玩家，这名玩家知道自己被厉火选中。如果你选择的玩家对“本局游戏存在厉火”疯狂，被你选择过的玩家可能被全部处决。",
+    "otherNight": 8,
+    "otherNightReminder": "邪恶之火：每个夜晚*，选择一名玩家，这名玩家知道自己被厉火选中。如果你选择的玩家对“本局游戏存在厉火”疯狂，被你选择过的玩家可能被全部处决。",
+    "reminders": [
+      "邪恶之火"
+    ],
+    "setup": false,
+    "ability": "邪恶之火：每个夜晚*，选择一名玩家，这名玩家会知道自己被厉火选中。如果你选择的玩家试图告诉大家“本局游戏存在厉火”，被你选择过的玩家可能被全部处决。[-1外来者]",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_22.png"
+  },
+  {
+    "id": "hlbt_23",
+    "isOfficial": false,
+    "name": "小矮星彼得",
+    "edition": "hlbt",
+    "team": "minion",
+    "firstNight": 7,
+    "firstNightReminder": "偷梁换柱：每个夜晚，选择一名存活玩家(需与上一夜不同)，明天，当他被处决时，他不会死亡。",
+    "otherNight": 9,
+    "otherNightReminder": "偷梁换柱：每个夜晚，选择一名存活玩家(需与上一夜不同)，明天，当他被处决时，他不会死亡。",
+    "reminders": [
+      "不会被处决"
+    ],
+    "setup": true,
+    "ability": "偷梁换柱：每个夜晚，选择一名存活玩家(需与上一夜不同)，明天，当他被处决时，他不会死亡。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_23.png"
+  },
+  {
+    "id": "hlbt_24",
+    "isOfficial": false,
+    "name": "伏地魔",
+    "edition": "hlbt",
+    "team": "demon",
+    "firstNight": 8,
+    "firstNightReminder": "大魔头：每个夜晚*，选择一名玩家，将他杀害。游戏开始时选择与爪牙同等数量的玩家作为你的魂器，只有他们都死亡时，你才能死亡。所有人都知道当前还有几块魂器在场。如果有人提了你的名字，他后面可能会发生不好的事情。",
+    "otherNight": 11,
+    "otherNightReminder": "大魔头：每个夜晚*，选择一名玩家，将他杀害。游戏开始时选择与爪牙同等数量的玩家作为你的魂器，只有他们都死亡时，你才能死亡。所有人都知道当前还有几块魂器在场。如果有人提了你的名字，他后面可能会发生不好的事情。",
+    "reminders": [
+      "杀害"
+    ],
+    "remindersGlobal": [
+      "魂器"
+    ],
+    "setup": false,
+    "ability": "大魔头：每个夜晚*，选择一名玩家，将他杀害。游戏开始时选择与爪牙同等数量的玩家作为你的魂器，只有他们都死亡时，你才能死亡。每天拂晓时所有人会知道当前还有几块魂器在场。如果有人提了你的名字，他后面可能会发生不好的事情。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_24.png"
+  },
+  {
+    "id": "hlbt_25",
+    "isOfficial": false,
+    "name": "纳吉尼",
+    "edition": "hlbt",
+    "team": "demon",
+    "firstNight": 9,
+    "firstNightReminder": "恶咒巨蛇：每个夜晚*，选择一名玩家，将他杀害。游戏开始时选择与爪牙同等数量的玩家作为你的魂器，你第一次死亡时，他们中的一人会被转化为邪恶的纳吉尼，并不再是魂器。每天拂晓时会所有人会知道当前还有几块魂器在场。",
+    "otherNight": 12,
+    "otherNightReminder": "恶咒巨蛇：每个夜晚*，选择一名玩家，将他杀害。游戏开始时选择与爪牙同等数量的玩家作为你的魂器，你第一次死亡时，他们中的一人会被转化为邪恶的纳吉尼，并不再是魂器。所有人都知道当前还有几块魂器在场。",
+    "reminders": [
+      "杀害"
+    ],
+    "setup": false,
+    "ability": "恶咒巨蛇：每个夜晚*，选择一名玩家，将他杀害。游戏开始时选择与爪牙同等数量的玩家作为你的魂器，你第一次死亡时，他们中的一人会被转化为邪恶的纳吉尼，并不再是魂器。每天拂晓时所有人会知道当前还有几块魂器在场。",
+    "remindersGlobal": [],
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_25.png"
+  },
+  {
+    "id": "hlbt_26",
+    "isOfficial": false,
+    "name": "复活石",
+    "edition": "hlbt",
+    "team": "fabled",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [
+      "复活石"
+    ],
+    "setup": false,
+    "ability": "复活石：有一名存活玩家可能获得复活石。每局游戏限一次，你可以复活一名玩家。你可以将未使用的复活石转交给其他玩家。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_26.png"
+  },
+  {
+    "id": "hlbt_27",
+    "isOfficial": false,
+    "name": "隐形衣",
+    "edition": "hlbt",
+    "team": "fabled",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [
+      "隐形衣"
+    ],
+    "setup": false,
+    "ability": "隐形衣：有一名存活玩家可能获得隐形衣。你不会被恶魔杀死。你可以将隐形衣转交给其他玩家。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_27.png"
+  },
+  {
+    "id": "hlbt_28",
+    "isOfficial": false,
+    "name": "老魔杖",
+    "edition": "hlbt",
+    "team": "fabled",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [
+      "老魔杖"
+    ],
+    "setup": false,
+    "ability": "老魔杖：有一名存活玩家可能获得老魔杖。每局游戏限一次，你可以杀死一名玩家。你可以将未使用的老魔杖转交给其他玩家。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_28.png"
+  },
+  {
+    "id": "hlbt_29",
+    "isOfficial": false,
+    "name": "纽特",
+    "edition": "hlbt",
+    "team": "traveler",
+    "firstNight": 0,
+    "firstNightReminder": "神奇动物学家：每局游戏限一次，你可以带一名玩家去旅行（研究神奇动物），当天这名玩家不能发动技能，不能参与提名和投票，也不会受其他玩家技能影响。",
+    "otherNight": 0,
+    "otherNightReminder": "神奇动物学家：每局游戏限一次，你可以带一名玩家去旅行（研究神奇动物），当天这名玩家不能发动技能，不能参与提名和投票，也不会受其他玩家技能影响。",
+    "reminders": [
+      "旅行"
+    ],
+    "setup": false,
+    "ability": "神奇动物学家：每局游戏限一次，你可以带一名玩家去旅行（研究神奇动物），当天这名玩家不能发动技能，不能参与提名和投票，也不会受其他玩家技能影响。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_29.png"
+  },
+  {
+    "id": "hlbt_30",
+    "isOfficial": false,
+    "name": "格林德沃",
+    "edition": "hlbt",
+    "team": "traveler",
+    "firstNight": 0,
+    "firstNightReminder": "革命者：每局游戏限一次，当一名玩家被提名且投票结束时，你可以强制处决或不处决这名玩家。",
+    "otherNight": 0,
+    "otherNightReminder": "革命者：每局游戏限一次，当一名玩家被提名且投票结束时，你可以强制处决或不处决这名玩家。",
+    "reminders": [
+      "已使用"
+    ],
+    "setup": false,
+    "ability": "革命者：每局游戏限一次，当一名玩家被提名且投票结束时，你可以强制处决或不处决这名玩家。",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/hlbt_30.png"
+  }
+]
