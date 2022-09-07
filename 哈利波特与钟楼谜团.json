@@ -3,7 +3,21 @@
     "id": "_meta",
     "name": "哈利波特与钟楼谜团",
     "author": "戴大维",
-    "logo": "https://oss.gstonegames.com/data_file/clocktower/web/editions/hlbt.png"
+    "logo": "https://oss.gstonegames.com/data_file/clocktower/web/editions/hlbt.png",
+	"townsfolkName": "镇民",
+	"townsfolk": "镇民",
+    "state": [
+      {
+        "stateName": "魂器",
+        "stateDescription": "游戏开始时恶魔选择与爪牙同等数量的玩家作为魂器，恶魔选择时已经知道爪牙是谁，被选中的玩家不知道自己是魂器。每天拂晓时所有人会知道当前还有几块魂器在场。"
+      }
+    ],
+    "status": [
+      {
+        "name": "魂器",
+        "skill": "游戏开始时恶魔选择与爪牙同等数量的玩家作为魂器，恶魔选择时已经知道爪牙是谁，被选中的玩家不知道自己是魂器。每天拂晓时所有人会知道当前还有几块魂器在场。"
+      }
+    ]
   },
   {
     "id": "hlbt_1",
