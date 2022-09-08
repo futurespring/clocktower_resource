@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "逃出生天",
+    "author": "染半仙",
+    "logo": "https://i.postimg.cc/kMzkYF24/03.png",
+	"description": "爆破模式",
+    "townsfolkName": "镇民"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "fortune_teller"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "poppy_grower"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "pit-hag"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "imp"
+  }
+]
