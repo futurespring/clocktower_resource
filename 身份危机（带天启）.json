@@ -1,0 +1,21 @@
+[{
+    "id": "_meta",
+    "name": "身份危机",
+    "author": "Littleblack",
+    "logo": "https://i.postimg.cc/BZ15dVXd/20220424232734.png"
+  },{"id":"pixie"},{"id":"bounty_hunter"},{"id":"alchemist"},{"id":"gambler"},{"id":"sailor"},{"id":"snake_charmer"},{"id":"general"},{"id":"balloonist"},{"id":"preacher"},{"id":"farmer"},{"id":"poppy_grower"},{"id":"amnesiac"},{"id":"cannibal"},{"id":"drunk"},{"id":"lunatic"},{"id":"moonchild"},{"id":"barber"},{"id":"pit-hag"},{"id":"cerenovus"},{"id":"marionette"},{"id":"mezepheles"},{"id":"al-hadikhia"},{"id":"fang_gu"},{"id":"lleech"},{"id":"lil_monsta"},
+  {
+    "id": "Apocalypse",
+    "image": "https://i.postimg.cc/BvYWS056/Apocalypse.png",
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": 0,
+    "name": "天启召唤者",
+    "team": "townsfolk",
+    "ability": "每局游戏限一次，在白天时，如果只有四名或更少的玩家存活，你可以私下拜访说书人以查看魔典二十秒。"
+  }]
