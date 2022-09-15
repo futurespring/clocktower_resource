@@ -3,7 +3,27 @@
     "id": "_meta",
     "name": "身份危机",
     "author": "Littleblack",
-    "logo": "https://i.postimg.cc/BZ15dVXd/20220424232734.png"
+    "logo": "https://i.postimg.cc/BZ15dVXd/20220424232734.png",
+    "townsfolkName": "镇民",
+    "townsfolk": "镇民",
+    "state": [
+      {
+        "stateName": "提线木偶 & 小怪宝",
+        "stateDescription": "提线木偶会与一名爪牙玩家邻座，而不是恶魔。 提线木偶不会被唤醒来决定是否照看小怪宝。"
+      },
+      {
+        "stateName": "提线木偶 & 罂粟种植者",
+        "stateDescription": "当罂粟种植者死亡后，恶魔会知道谁是提线木偶，但提线木偶什么都不会知道。"
+      },
+      {
+        "stateName": "提线木偶 & 气球驾驶员",
+        "stateDescription": "如果提线木偶抽到了气球驾驶员，也会+1外来者。"
+      },
+      {
+        "stateName": "小怪宝 & 罂粟种植者",
+        "stateDescription": "如果罂粟种植者在场，爪牙们不会同时醒来选择照看小怪宝。 他们会依次单独被唤醒，直到其中一人选择照看小怪宝。"
+      }
+    ]
   },
   {
     "firstNightReminder": "对小精灵展示一个在场的镇民角色。",
